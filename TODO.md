@@ -1,3 +1,4 @@
-2. Deploy with vercel
-3. Add custom domain name
-4. check that every push triggers a new deployment
+1. check that every push triggers a new deployment
+2. add projects, articles
+3. fix @victor parts, check integrations (newsletter,comments,seo,rss, analytics)
+4. check mobile version
