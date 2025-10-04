@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'A blog with thoughts. For a change.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app', // @victor
   // siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/vm.ico`,
   // socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
