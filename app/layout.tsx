@@ -67,11 +67,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       className={`${space_grotesk.variable} scroll-smooth`}
       suppressHydrationWarning
     >
-      <link
-        rel="icon"
-        sizes="32x32"
-        href={`${basePath}/static/favicons/favicon.ico`}
-      />
+      <link rel="icon" sizes="32x32" href={`${basePath}/static/favicons/favicon.ico`} />
       <link rel="manifest" href={`${basePath}/static/favicons/site.webmanifest`} />
       <meta name="msapplication-TileColor" content="#000000" />
       <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fff" />
