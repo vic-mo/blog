@@ -2,13 +2,13 @@
 const siteMetadata = {
   title: 'Yet Another Blog',
   author: 'Victor Morel',
-  headerTitle: 'YAB - Yet Another Blog',
-  description: 'This is a blog on random stuff.',
+  headerTitle: 'Yet Another Blog',
+  description: 'A blog with thoughts. For a change.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   // siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
+  siteLogo: `${process.env.BASE_PATH || ''}/static/images/vm.ico`,
   // socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   // mastodon: 'https://mastodon.social/@mastodonuser',
   // email: 'address@yoursite.com',
