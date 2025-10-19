@@ -22,7 +22,7 @@ const projectsData: Project[] = [
   },
   {
     title: 'CHIP-8 Emulator',
-    description: `A web-based CHIP-8 emulator built with Vue.js and WebAssembly. Features a library of 99+ games,
+    description: `A web-based CHIP-8 emulator built with Vue.js and WebAssembly. Features multiple games,
     custom ROM upload, speed controls, and runs classic CHIP-8 programs directly in your browser.`,
     imgSrc: '/static/images/chip8.png',
     href: 'https://chip8.vicmo.xyz',
