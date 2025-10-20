@@ -14,7 +14,7 @@ const projectsData: Project[] = [
     href: 'https://wallpapers.vicmo.xyz',
   },
   {
-    title: 'Monkey Language Interpreter',
+    title: 'Monkey Language Interpreter & Compiler',
     description: `A complete implementation of the Monkey programming language from monkeylang.org,
     featuring an online playground where you can write and execute Monkey code directly in your browser.`,
     imgSrc: '/static/images/monkey-lang.png',
@@ -22,7 +22,7 @@ const projectsData: Project[] = [
   },
   {
     title: 'CHIP-8 Emulator',
-    description: `A web-based CHIP-8 emulator built with Vue.js and WebAssembly. Features multiple games,
+    description: `A CHIP-8 emulator built with Rust, Vue.js and WebAssembly. Features multiple games,
     custom ROM upload, speed controls, and runs classic CHIP-8 programs directly in your browser.`,
     imgSrc: '/static/images/chip8.png',
     href: 'https://chip8.vicmo.xyz',
