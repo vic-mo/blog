@@ -7,11 +7,10 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'Wallpaper Symmetry',
-    description: `An interactive wallpaper collection exploring symmetry patterns and designs.
-    Browse through various wallpapers showcasing different symmetry groups and mathematical patterns.`,
-    imgSrc: '/static/images/wallpapers.png',
-    href: 'https://wallpapers.vicmo.xyz',
+    title: 'Chess Engine',
+    description: `A fully-featured chess engine that you can play against directly in your browser.`,
+    imgSrc: '/static/images/chess.png',
+    href: 'https://chess.vicmo.xyz',
   },
   {
     title: 'Monkey Language Interpreter & Compiler',
@@ -19,6 +18,13 @@ const projectsData: Project[] = [
     featuring an online playground where you can write and execute Monkey code directly in your browser.`,
     imgSrc: '/static/images/monkey-lang.png',
     href: 'https://monkey.vicmo.xyz',
+  },
+  {
+    title: 'Wallpaper Symmetry',
+    description: `An interactive wallpaper collection exploring symmetry patterns and designs.
+    Browse through various wallpapers showcasing different symmetry groups and mathematical patterns.`,
+    imgSrc: '/static/images/wallpapers.png',
+    href: 'https://wallpapers.vicmo.xyz',
   },
   {
     title: 'CHIP-8 Emulator',
