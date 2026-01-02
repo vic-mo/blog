@@ -33,6 +33,13 @@ const projectsData: Project[] = [
     imgSrc: '/static/images/chip8.png',
     href: 'https://chip8.vicmo.xyz',
   },
+  {
+    title: 'Enigma M4 Machine',
+    description: `An interactive Enigma M4 machine simulator. Configure the four rotors and plugboard settings
+    to encrypt and decrypt messages.`,
+    imgSrc: '/static/images/enigma.png',
+    href: 'https://enigma.vicmo.xyz',
+  },
 ]
 
 export default projectsData
