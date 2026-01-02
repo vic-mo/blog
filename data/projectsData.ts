@@ -35,7 +35,7 @@ const projectsData: Project[] = [
   },
   {
     title: 'Enigma M4 Machine',
-    description: `An interactive Enigma M4 machine simulator. Configure the four rotors and plugboard settings
+    description: `A WWII Enigma M4 machine simulator. Configure the four rotors and plugboard settings
     to encrypt and decrypt messages.`,
     imgSrc: '/static/images/enigma.png',
     href: 'https://enigma.vicmo.xyz',
